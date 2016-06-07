@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="Jars/CrazyCapabilityMatcher.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-examples-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="Jars/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="Jars/sqlsheet-6.5.jar"/>
+	<classpathentry kind="lib" path="Jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="Jars/ini4j-0.5.1.jar"/>
+	<classpathentry kind="lib" path="Jars/jsqlparser-0.8.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

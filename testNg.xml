@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Suite" verbose="1" parallel= "methods" thread-count="10">
+
+   <test name="Indiana Execution">
+     <classes>
+      <class name="SupportLibraries.TestNG_Configuration"></class>
+  
+
+      	<methods>
+      	<method name="EarnedIncome"> </method>
+      
+      		<method name="Household">
+      		</method>
+
+      	</methods>
+      </classes>
+   </test>
+   </suite>

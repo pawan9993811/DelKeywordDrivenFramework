@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="SupportLibraries.TestNG_Configuration">
+        <methods>
+          <include name="EarnedIncome"/>
+          <include name="CloseSummary"/>
+          <include name="Household"/>
+          <include name="CheckGridSetupValue"/>
+        </methods>
+      </class> <!-- SupportLibraries.TestNG_Configuration -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

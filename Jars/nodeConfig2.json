@@ -1,0 +1,39 @@
+{
+  "capabilities":
+      [
+{
+           "platform": "WINDOWS",
+                                "browserName": "chrome",
+                                "maxInstances": 5,
+                                "seleniumProtocol": "WebDriver",
+"NodeName": "[EarnedIncome]"
+                                 
+
+                },
+        {
+"platform": "WINDOWS",
+          "browserName": "firefox",
+          "maxInstances": 5,
+         "NodeName": "[EarnedIncome]"
+        },
+{
+            "platform": "WINDOWS",
+                                "browserName": "internet explorer",
+                                "maxInstances": 5,
+                                "seleniumProtocol": "WebDriver",
+"NodeName": "[EarnedIncome]"
+                              
+                }
+      ],
+  "configuration":
+  {
+    "proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+    "maxSession": 5,
+    "port": 5556,
+    "host": 10.8.205.105,
+    "register": true,
+    "registerCycle": 5000,
+    "hubPort": 4444,
+    "hubHost": 10.8.205.105
+  }
+}

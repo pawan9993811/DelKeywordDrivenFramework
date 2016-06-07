@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" name="Failed suite [Test Suite]" parallel="methods">
+  <test name="Indiana Execution(failed)" parallel="methods">
+    <classes>
+      <class name="SupportLibraries.TestNG_Configuration">
+        <methods>
+          <include name="EarnedIncome"/>
+          <include name="CloseSummary"/>
+          <include name="Household"/>
+          <include name="CheckGridSetupValue"/>
+        </methods>
+      </class> <!-- SupportLibraries.TestNG_Configuration -->
+    </classes>
+  </test> <!-- Indiana Execution(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

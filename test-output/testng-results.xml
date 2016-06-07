@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="24" started-at="2016-06-07T11:15:02Z" finished-at="2016-06-07T11:15:02Z">
+    <groups>
+    </groups>
+    <test name="Indiana Execution" duration-ms="24" started-at="2016-06-07T11:15:02Z" finished-at="2016-06-07T11:15:02Z">
+      <class name="SupportLibraries.TestNG_Configuration">
+        <test-method status="PASS" signature="CheckGridSetupValue()[pri:0, instance:SupportLibraries.TestNG_Configuration@42f30e0a]" name="CheckGridSetupValue" is-config="true" duration-ms="5796" started-at="2016-06-07T16:44:56Z" finished-at="2016-06-07T16:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckGridSetupValue -->
+        <test-method status="PASS" signature="EarnedIncome()[pri:0, instance:SupportLibraries.TestNG_Configuration@42f30e0a]" name="EarnedIncome" duration-ms="2" started-at="2016-06-07T16:45:02Z" finished-at="2016-06-07T16:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EarnedIncome -->
+        <test-method status="PASS" signature="Household()[pri:0, instance:SupportLibraries.TestNG_Configuration@42f30e0a]" name="Household" duration-ms="0" started-at="2016-06-07T16:45:02Z" finished-at="2016-06-07T16:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Household -->
+        <test-method status="PASS" signature="CloseSummary()[pri:0, instance:SupportLibraries.TestNG_Configuration@42f30e0a]" name="CloseSummary" is-config="true" duration-ms="0" started-at="2016-06-07T16:45:02Z" finished-at="2016-06-07T16:45:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseSummary -->
+      </class> <!-- SupportLibraries.TestNG_Configuration -->
+    </test> <!-- Indiana Execution -->
+  </suite> <!-- Test Suite -->
+</testng-results>
