@@ -1,5 +1,13 @@
-﻿This FrameWork is KeyWord Driven . To Create you demo Test (Login to gmail with invalid input)
-===========================================================
+﻿This FrameWork is KeyWord Driven . 
+*********************************
+Can create Test using excel
+Grid
+Used - TestNg , POI 
+Reports
+
+***********************************************
+To Create you demo Test (Login to gmail with invalid input)
+=======================================
 Step 1 -> Import Project from Git hub 
 
 Step 2 >  Open TestCaseSelection_Singlesheet.xlsx file and in TestCases Sheet  
